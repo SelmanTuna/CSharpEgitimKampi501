@@ -1,0 +1,13 @@
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe.config
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.exe
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\CSharpEgitimKampi501.pdb
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\Dapper.dll
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\bin\Debug\Dapper.xml
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.AssemblyReference.cache
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Product.resources
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.Properties.Resources.resources
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.GenerateResource.cache
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.csproj.CoreCompileInputs.cache
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEg.1578513C.Up2Date
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.exe
+C:\Users\selma\source\repos\CSharpEgitimKampi501\CSharpEgitimKampi501\obj\Debug\CSharpEgitimKampi501.pdb

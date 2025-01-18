@@ -9,4 +9,8 @@
 ---
 <div style='text-align:justify;'>Entity Framework methodları ile de temel CRUD (ekle,listele,güncelle ve sil) işlemlerini form üzerinde uygulamalar ile pekiştirdim.Farklı bir form üzerinden de LinQ sorgular yazarak veri çekmeyi, filitreyerek veri listelemeyi deneyerek öğrendim.</div>
 
+## 🎯 Dapper ile Proje Uygulaması :Dapper Kullanımı.
+---
+<div style='text-align:justify;'>Dapper ile DTO methodları ile de temel CRUD (ekle,listele,güncelle ve sil) işlemlerini form üzerinde uygulamalar ile pekiştirdim.</div>
+
 
